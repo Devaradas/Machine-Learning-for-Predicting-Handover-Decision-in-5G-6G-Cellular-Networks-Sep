@@ -19,14 +19,16 @@ The project aims to optimize handover (HO) decisions in ultra-dense 5G and emerg
 * **Simulation Environment:**  MATLAB
 * **Machine Learning:** MATLAB ( ML Toolbox )
 * **Key Features Extracted:** Reference Signal Received Power (RSRP), Reference Signal Received Quality (RSRQ), Signal-to-Interference-plus-Noise Ratio (SINR), UE velocity, and trajectory.
-* **Algorithms Tested:** [ Decision Tree , Random Forest, Support Vector Machines (SVM), Deep Neural Networks (DNN)] ( More models might be added for comparison )
+* **Algorithms Tested:**  Decision Tree , Random Forest, Support Vector Machines (SVM), Deep Neural Networks (DNN) ( More models might be added for comparison )
 
 ## 📈 Current Progress
-- [x] Comprehensive literature review on 5G/6G handover mechanisms.
+- [x] Comprehensive literature review on 5G/6G handover mechanisms as a Survey Paper.
 - [x] Initial network simulation and dataset generation for UE mobility.
 - [ ] Feature engineering and data preprocessing.
 - [ ] ML model training and baseline performance evaluation.
 - [ ] Final integration and comparative analysis against traditional LTE/5G handover protocols.
+- [ ] Final Thesis
+
 
 ## 📖 Academic Context
 This research serves as my graduation project for my B.Sc. in Electronics and Communication Engineering. It bridges core telecommunications principles with modern data science techniques to address real-world 5G/6G infrastructure challenges.
